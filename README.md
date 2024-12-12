@@ -80,7 +80,7 @@ The `monitor.py` tool provides real-time visibility into:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/rbcet-energy-trading.git
+   git clone https://github.com/TakMashhido/RBCET.git
    cd rbcet-energy-trading
    ```
 
