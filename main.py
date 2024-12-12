@@ -30,7 +30,7 @@ def main():
     monitor.monitor_chain()
 
     batch_size = 5  # Process transactions in batches of 5
-    total_transactions = 15  # Total transactions to simulate
+    total_transactions = 30  # Total transactions to simulate
 
     for i in range(0, total_transactions, batch_size):
         add_random_transactions(blockchain, num_transactions=batch_size)
