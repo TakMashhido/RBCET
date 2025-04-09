@@ -11,6 +11,20 @@ This repository implements the blockchain system for **RBCET: A Reputation-Based
 
 ---
 
+> 📄 **If you use this work, please cite the following paper:**
+> 
+> ```
+> @article{kumar2025rbcet,
+>   title={RBCET: A Reputation based Blockchain Consensus Mechanism for Fast and Secured Energy Trading in Internet of Electric Vehicles (IoEV)},
+>   author={Kumar, Amritesh and Mondal, Koustav Kumar and Vishwakarma, Lokendra and Das, Debasis},
+>   journal={IEEE Transactions on Consumer Electronics},
+>   year={2025},
+>   publisher={IEEE}
+> }
+> ```
+
+---
+
 ## ⚙️ How It Works
 
 ### 1. **Energy Trading Mechanism**
